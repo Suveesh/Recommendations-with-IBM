@@ -34,3 +34,7 @@ The project is organized along the following steps:
     III. User-User Based Collaborative Filtering
     IV. Content Based Recommendations (EXTRA - NOT REQUIRED)
     V. Matrix Factorization
+    
+### Acknowledgments
+
+I would like to thank Udacity for this amazing project, and IBM for providing the data.
